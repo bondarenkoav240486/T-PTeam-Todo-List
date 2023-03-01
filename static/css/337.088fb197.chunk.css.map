@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/337.088fb197.chunk.css","mappings":"AAAA,8CACI,eACJ","sources":["pages/User/User.module.css"],"sourcesContent":[".user, .user_info__box{\r\n    list-style: none;\r\n}"],"names":[],"sourceRoot":""}
